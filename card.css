@@ -1,0 +1,40 @@
+.grey-bg {
+    background-color: #F5F7FA;
+}
+.row-steps h4{
+text-align: center;
+font-family: arial;
+font-weight: bold;
+}
+.row-steps p {
+    text-align: center;
+    font-family: arial;
+    /* font-weight: bold; */
+}
+.card .card-content h1 {
+
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 63px;
+    letter-spacing: .0022px;
+    color: #afb9c5;
+    
+   /* vertical-align: sub;
+    font-size: 30px;
+    white-space:3px; */
+}
+.card .card-content p{
+ text-align: justify!important;
+ font-size: 14px;
+ font-family: Inter,sans-serif;
+}
+/* .section-title h2::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: #e03a3c;
+    bottom: 0;
+    left: calc(50% - 25px);
+} */
